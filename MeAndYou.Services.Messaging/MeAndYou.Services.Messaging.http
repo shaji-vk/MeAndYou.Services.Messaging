@@ -1,0 +1,6 @@
+@MeAndYou.Services.Messaging_HostAddress = http://localhost:5291
+
+GET {{MeAndYou.Services.Messaging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
